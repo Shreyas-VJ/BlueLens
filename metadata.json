@@ -1,0 +1,6 @@
+{
+  "name": "BLUELENS",
+  "description": "A Unified Interactive 3D/4D Ocean Visualization Platform for INCOIS. See Beyond. Understand Deeper.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
